@@ -16,7 +16,7 @@ body {
 }
 
 
-.card_h {
+.card_title {
     font-size: 2.1em;
     font-weight: bold;
     margin: 0;
@@ -24,7 +24,7 @@ body {
 }
 
 
-.card_i {
+.card_image {
     margin: 0 0 18px 0;
     border: solid 1px #ccc;
 }
@@ -36,23 +36,23 @@ body {
 }
 
 
-.details_s {
+.details_section {
     list-style: none;
 }
 
 
-.details_c {
+.details_card {
     font-size: 1em;
     padding: 0 0 8px 0;
 }
 
 
-.details_i {
+.details_italic {
     font-style: italic;
 }
 
 
-.details_b {
+.details_bold {
     font-weight: bold;
     font-style: normal;
 }
